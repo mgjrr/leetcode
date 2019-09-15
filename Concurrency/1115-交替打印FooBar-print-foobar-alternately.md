@@ -1,6 +1,6 @@
-    简单消费生产者问题.
+简单消费生产者问题.
 
-```
+```cpp
 class FooBar {
 private:
     int n;

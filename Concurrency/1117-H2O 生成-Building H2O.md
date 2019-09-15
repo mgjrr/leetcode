@@ -2,7 +2,7 @@
 
 两个H配一个O,才行,不能多了.
 
-```
+```cpp
 class H2O {
 public:
     H2O() {
